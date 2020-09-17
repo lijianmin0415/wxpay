@@ -38,7 +38,8 @@ build/
 
 # Log file
 *.log
-
+idea/ workspace.xml 
+/.idea/*
 # BlueJ files
 *.ctxt
 
